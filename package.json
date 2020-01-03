@@ -1,7 +1,7 @@
 {
   "name": "react-native-detect-mm-text-encoding",
   "title": "Detect Myanmar Text Encoding in React Native",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Detect Myanmar Text Encoding in React Native",
   "main": "index.js",
   "types": "index.d.ts",
